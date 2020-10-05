@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+html{
+    font-family: "Arial";
+    font-size: "16px";
+}
+.Cuerpo{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.Logo{
+    background-color:rgb(4, 4, 92);
+    color: white;
+    padding-bottom:16px ;
+}
+.Nav{
+    text-align: right;
+    background-color: rgb(5, 5, 122);
+    margin-top: 10px;
+}
+.menu{color: white;
+}
+.Seccion{
+    padding-top: 20px;
+    padding: 15px;
+    float: left;
+    width: 75%;
+    background-color: rgb(88, 98, 240);
+}
+.Importante{
+    background-color: white;
+    margin-bottom: 15px;
+    padding: 10px;
+}
+.aside{
+    float: right;
+    background-color: rgb(88, 98, 240);
+    width: 20%;
+    margin-left: 5px;  
+    padding: 5px; 
+}
+.Ns{
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+.Ns2{
+    padding: 10px;
+    margin: 10px;
+}
+.item{
+    width: 80%;
+    border-radius: 0.4em;
+    padding: 10px;
+    background-color: white;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+.item2{
+    width: 97%;
+    border-radius: 0.4em;
+    padding: 10px;
+    background-color: white;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+.col3{
+    display: flex;
+    padding: 1em;
+}
+.dest2{ 
+    background-color: white;
+    margin-top: 5px;
+    padding: 10px;
+
+}
+.Img{text-align: center;}
+.Img2{
+    float: left;
+    padding: 1px;}
+.Ref{
+    text-align: right;
+}
+.Pie{
+    text-align: center;
+    background-color: rgb(135, 188, 206);
+    padding: 10px;
+    clear: left;
+    color: white;
+}
+.Regist{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+} 
